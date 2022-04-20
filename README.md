@@ -2,7 +2,7 @@
 
 El clásico juego de Busca minas (Minesweeper) desarrollado con Python 
 
-Se implementó POO oara realizar este juego. A su vez, se hizo uso de la librería tkinter para implementar una interfaz gráfica 
+Se implementó POO para realizar este juego. A su vez, se hizo uso de la librería tkinter para implementar la interfaz gráfica 
 
 Imagenes:
 
